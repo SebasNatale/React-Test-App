@@ -1,0 +1,19 @@
+#card-wrapper {
+    background-color: rgb(196, 233, 254);
+    border-radius: 10px;
+    padding: 15px 25px;
+}
+
+.card {
+    margin-top: 15px;
+}
+
+.list-group-item {
+    display: flex;
+    justify-content: space-between;
+    button {
+        width: 55px;
+        padding: 0;
+        margin: 0;
+    }
+}

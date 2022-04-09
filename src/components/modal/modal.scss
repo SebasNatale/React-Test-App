@@ -1,0 +1,32 @@
+.modal-overlay {
+  background-color: rgba($color: #000000, $alpha: 0.83);
+  border-radius: 10px;
+  left: 10vw;
+  position: fixed;
+  top: 7vh;
+  width: 80vw;
+  padding: 20px;
+  text-align: center;
+}
+
+.edit-buttons {
+  display: flex;
+  justify-content: space-evenly;
+  button {
+    width: fit-content;
+    padding: 0 10px;
+  }
+}
+
+h5 {
+  color: #FFF;
+}
+
+span {
+  color: #FFF;
+}
+
+button {
+  width: 100%;
+  margin-top: 20px;
+}
